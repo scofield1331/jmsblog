@@ -1,0 +1,20 @@
+/**
+* 2007-2017 PrestaShop
+*
+* Jms Blog
+*
+*  @author    Joommasters <joommasters@gmail.com>
+*  @copyright 2007-2017 Joommasters
+*  @license   license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*  @Website: http://www.joommasters.com
+*/
+
+.childs-category{
+    display: table;
+}
+ul.childs-category li{
+    display: inline-block;
+    float:left;
+    padding: 3px 7px 4px;
+    margin: 1px;
+}
